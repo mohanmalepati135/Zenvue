@@ -705,7 +705,6 @@ export const dummyInterviews: Interview[] = [
 
 Public assets used in the project can be found [here](https://drive.google.com/drive/folders/1EucYi4SSvRTnoKn0Pj90DAyYBsQb9VQk?usp=drive_link)
 
-## <a name="more">🚀 More</a>
 
 
 
